@@ -1,0 +1,13 @@
+{
+  "postgres": {
+    "addr": "localhost:5432",
+    "user": "zhaojianfeng",
+    "password": "",
+    "database": "tantandemo",
+    "timeout": 3
+  },
+  "rest-api": {
+    "addr": "localhost:8000",
+    "timeout": 3
+  }
+}
